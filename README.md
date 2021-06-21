@@ -2,9 +2,9 @@
 ROCK SCISSOR PAPER with python and haar cascade
 
 ## Guideline to Run The Game ROCK-SCISSOR-PAPER:
-
-<img src = "Captura1.JPG" width=410>
 <img src = "captura_0.jpg" width=410>
+<img src = "Captura1.JPG" width=410>
+
 Step 1. Create a folder named RSP
 Step 2. Download all the files and place them inside the RCP folder
 Step 3. Finally run the .py file
