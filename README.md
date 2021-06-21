@@ -16,7 +16,7 @@ DroidCam : https://www.dev47apps.com/droidcam/windows/
 Then you must make the following modification in the .py file where usually the value of 0 refers to the default camera of laptops, the channel of the cell phone camera will be found in channel 2 or 3
 
 
-<img src = "captura3.jpg" width=410>
+<img src = "Captura3.jpg" width=410>
 
 ## What about the .xml files?
 These files are generated with the help of the Cascade-Trainer-GUI program.
